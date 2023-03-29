@@ -1,0 +1,90 @@
+/* Industuried-background */
+
+position: absolute;
+width: 1440px;
+height: 775.4px;
+left: 0px;
+top: 165.3px;
+
+=====================================================
+
+/Industries-01/
+
+position: absolute;
+width: 621.95px;
+height: 323.14px;
+left: 67.71px;
+top: 838.99px;
+
+background: url(12.jpg);
+border-radius: 20px 20px 0px 0px;
+=====================================================
+/Indus-HealthCare-02/
+
+position: absolute;
+width: 617px;
+height: 323px;
+left: 760.23px;
+top: 839.13px;
+
+background: url(10.jpg);
+border-radius: 20px 20px 0px 0px;
+
+=====================================================
+/Indus-Retail-03/
+
+position: absolute;
+width: 621.95px;
+height: 323px;
+left: 67.71px;
+top: 1447.15px;
+
+background: url(16.jpg);
+border-radius: 20px 20px 0px 0px;
+=====================================================
+/Indus-Education-04/
+
+position: absolute;
+width: 617px;
+height: 323px;
+left: 760.08px;
+top: 1447.15px;
+
+background: url(02.jpg);
+border-radius: 20px 20px 0px 0px;
+=====================================================
+/Indus-BSFO-05/
+
+position: absolute;
+width: 1309.36px;
+height: 369.29px;
+left: 67.71px;
+top: 2087.06px;
+
+background: url(13.jpg);
+border-radius: 20px 20px 0px 0px;
+=====================================================
+/2190226115529 image number/
+Colour :: #AF9A89 73%
+
+position: absolute;
+width: 1368.35px;
+height: 820.02px;
+left: 33.59px;
+top: 2797.28px;
+
+background: rgba(175, 154, 137, 0.73);
+border-radius: 30px 30px 0px 0px;
+=====================================================
+/* Arrow 22 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 298.69px;
+height: 172.6px;
+left: 1545.59px;
+top: 751.5px;
+
+border: 3px dashed #EDDADA;
+transform: rotate(154.45deg);
